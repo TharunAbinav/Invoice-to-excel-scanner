@@ -54,7 +54,9 @@ You can install the required dependencies using pip
 
 ## Sample Invoice
 
-These are the 3 sample invoices i have attached
+These are the sample invoices I used to test and develope the code around 
+
+To go to credits instead of scrolling use this like to fast travel ([Credits](#credits))
 
 ![alt text](https://github.com/TharunAbinav/Invoice-to-excel-scanner/blob/main/invoice1.png)
 
