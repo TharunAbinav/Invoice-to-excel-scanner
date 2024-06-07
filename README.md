@@ -59,6 +59,9 @@ These are the sample invoices I used to test and develope the code around
 To go to credits instead of scrolling use this like to fast travel ([Credits](#credits))
 
 ![alt text](https://github.com/TharunAbinav/Invoice-to-excel-scanner/blob/main/invoice1.png)
+![alt text](https://github.com/TharunAbinav/Invoice-to-excel-scanner/blob/main/invoice2.png)
+![alt text](https://github.com/TharunAbinav/Invoice-to-excel-scanner/blob/main/invoice3.png)
+
 
 ## Credits
 This project uses the following resources:
