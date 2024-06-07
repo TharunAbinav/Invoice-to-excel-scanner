@@ -9,7 +9,7 @@ This Python script allows you to extract data from invoice images and convert it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Sample Invoice](#Sample Invoice)
+- [Sample Invoice](#SampleInvoice)
 - [Credits](#credits)
 - [License](#license)
 
