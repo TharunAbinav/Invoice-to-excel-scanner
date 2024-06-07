@@ -1,7 +1,5 @@
 # Invoice Image to Excel Scanner
 
-![Invoice Image to Excel Scanner](https://cdn.pixabay.com/photo/2017/03/16/21/18/logo-2150297_1280.png)
-
 This Python script allows you to extract data from invoice images and convert it into an Excel spreadsheet. It utilizes the pytesseract library for Optical Character Recognition (OCR) and regular expressions (regex) to locate and extract relevant information from the invoice images.
 
 ## Table of Contents
@@ -52,4 +50,14 @@ This script requires the following dependencies:
 - openpyxl
 - re (regular expressions)
 
-You can install the required dependencies using pip:
+You can install the required dependencies using pip
+
+## Credits
+This project uses the following resources:
+
+- For using the regex keywords from regex library I have used (https://regex101.com/)
+-I have attached exaple invoice so you can try or test the code using the provided images from various sources
+
+## License
+The Weather Wizard project is licensed under the MIT License.
+
