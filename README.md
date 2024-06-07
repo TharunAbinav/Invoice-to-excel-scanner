@@ -56,7 +56,7 @@ You can install the required dependencies using pip
 
 These are the 3 sample invoices i have attached
 
-![alt text](https://github.com/TharunAbinav/Inovice-to-excel-scanner/blob/main/invoice1.png)
+![alt text](https://github.com/TharunAbinav/Invoice-to-excel-scanner/blob/main/invoice1.png)
 
 ## Credits
 This project uses the following resources:
