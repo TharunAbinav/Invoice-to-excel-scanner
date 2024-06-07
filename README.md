@@ -9,8 +9,8 @@ This Python script allows you to extract data from invoice images and convert it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Examples](#examples)
-- [Contributing](#contributing)
+- [Sample Invoice](#Sample Invoice)
+- [Credits](#credits)
 - [License](#license)
 
 ## Description
@@ -51,6 +51,8 @@ This script requires the following dependencies:
 - re (regular expressions)
 
 You can install the required dependencies using pip
+
+## Sample Invoice
 
 ## Credits
 This project uses the following resources:
